@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "William Kethman"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "father, husband, surgeon, and engineer interested in changing how we care for the world with **technology**"
+  bio              : "father, husband, surgeon, and engineer interested in changing how we care for the world with technology"
   location         : "Cleveland, OH"
   email            :
   links:
@@ -125,12 +125,12 @@ author:
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/wkethman"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/williamkethman"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/wkethman"
 
 # Site Footer
 footer:
