@@ -4,11 +4,8 @@ title: "Scholarship"
 modified: 2020-01-21
 comments: false
 author_profile: true
-header:
-   image: /images/header.jpg
+toc: true
 ---
-
-{% include toc %}
 
 ## Mentorship
 
