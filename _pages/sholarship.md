@@ -1,29 +1,13 @@
 ---
-title: "Scholarship"
 permalink: /scholarship/
+title: "Scholarship"
 author_profile: true
 toc: true
 header:
-  image: /images/header.png
+  image: /images/header.jpg
 ---
 
-## Mentorship
-
-**Lee White, M.D., Ph.D.** - Stanford Medical Student	
-Resulted in decision to attend Stanford University School of Medicine with ultimate interest in a career in Surgery, currently a Urology Resident at Stanford University.
-
-**Riccardo Campi, Xavier Hildenbrand, Seline Goudeketting, Valeriv Vozniuk, Ludovic Bailly**
-Business Engineering and Surgical Technologies Innovation Course in Strasbourg, France	2015
-Resulted in award for BEST of the BEST concept for development of a novel intragastric balloon extraction technology.
-
-**Ethan Li, Alaina Shumate, Preston Lim**
-Stanford University BIOE 141B Biodesign Project	2016
-Resulted in development of a novel therapy for treatment of post-thrombotic syndrome.
-
-**Leo Cheng, Alfonso Lapergola, Kelley Hoggan, Joric Oude Vrielink, Pierre Kadula, Lena Ternes**
-Business Engineering and Surgical Technologies Innovation Course in Strasbourg, France	2016
-Resulted in award for BEST Business for development of a diagnostic test to predict the quality of colonic preparation to reduce non-diagnostic endoscopic evaluations. This concept was selected by IRCAD for further development and the potential for up to 50,000€ in IHU grant funding.
-
+{% include toc %}
 
 ## Publications
 
@@ -56,4 +40,21 @@ Huffaker, MF, Carchia, M, Harris, BU, **Kethman, WC**, et al. Passive Nocturnal 
 **Kethman, WC**, Shelton, EA, Kin, C, Morris, AM, & Shelton AA. (2019). Effects of Colorectal Surgery Classification on Reported Postoperative Surgical Site Infections. Journal of Surgical Research, 236, 340–344. https://doi.org/10.1016/J.JSS.2018.12.005
 
 **Kethman, WC**, Harris, AHS, Morris, AM, Shelton, A, Kirilcuk, N. & Kin, C. (2019). Oncologic and Perioperative Outcomes of Laparoscopic, Open, and Robotic Approaches for Rectal Cancer Resection. Diseases of the Colon & Rectum, 1. https://doi.org/10.1097/DCR.0000000000001534
+
+## Mentorship
+
+**Lee White, M.D., Ph.D.** - Stanford Medical Student	
+Resulted in decision to attend Stanford University School of Medicine with ultimate interest in a career in Surgery, currently a Urology Resident at Stanford University.
+
+**Riccardo Campi, Xavier Hildenbrand, Seline Goudeketting, Valeriv Vozniuk, Ludovic Bailly**
+Business Engineering and Surgical Technologies Innovation Course in Strasbourg, France	2015
+Resulted in award for BEST of the BEST concept for development of a novel intragastric balloon extraction technology.
+
+**Ethan Li, Alaina Shumate, Preston Lim**
+Stanford University BIOE 141B Biodesign Project	2016
+Resulted in development of a novel therapy for treatment of post-thrombotic syndrome.
+
+**Leo Cheng, Alfonso Lapergola, Kelley Hoggan, Joric Oude Vrielink, Pierre Kadula, Lena Ternes**
+Business Engineering and Surgical Technologies Innovation Course in Strasbourg, France	2016
+Resulted in award for BEST Business for development of a diagnostic test to predict the quality of colonic preparation to reduce non-diagnostic endoscopic evaluations. This concept was selected by IRCAD for further development and the potential for up to 50,000€ in IHU grant funding.
 
