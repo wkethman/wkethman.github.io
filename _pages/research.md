@@ -3,6 +3,8 @@ title: "Scholarship"
 permalink: /scholarship/
 author_profile: true
 toc: true
+header:
+   image: /images/header.jpg
 ---
 
 ## Mentorship
