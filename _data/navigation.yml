@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Clinical interest"
+  - title: "Clinical"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Research"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Entrepreneurship"
   #   url: /year-archive/
-  - title: "Active projects"
+  - title: "Projects"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
