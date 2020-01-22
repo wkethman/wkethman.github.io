@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : ""
-title_separator          : "|"
+title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "William Kethman"
-description              : "An amazing website."
+description              : "One stepp at a time"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "William Kethman"
   avatar           : "/images/profile.jpg"
-  bio              : "father, husband, surgeon, and engineer interested in changing how we care for the world with technology"
+  bio              : "father, husband, surgeon, and engineer interested in the intersection of healthcare and technology"
   location         : "Cleveland, OH"
   email            :
   links:
