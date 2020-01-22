@@ -4,6 +4,8 @@ title: "Scholarship"
 modified: 2020-01-21
 comments: false
 author_profile: true
+header:
+   image: /images/header.jpg
 ---
 
 {% include toc %}
@@ -28,7 +30,7 @@ Resulted in award for BEST Business for development of a diagnostic test to pred
 
 ## Publications
 
-See my [Google scholar profile](https://scholar.google.com/citations?user=Q43MriQAAAAJ&hl=en) and [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=william+kethman)
+See my [Google Scholar](https://scholar.google.com/citations?user=Q43MriQAAAAJ&hl=en) and [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=william+kethman) profiles.
 
 ## Manuscripts
 
