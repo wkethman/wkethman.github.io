@@ -1,10 +1,6 @@
 ---
 permalink: /scholarship/
 title: "Scholarship"
-author_profile: true
-toc: true
-header:
-  image: /images/header.jpg
 ---
 
 {% include toc %}
