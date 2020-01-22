@@ -1,8 +1,6 @@
 ---
-permalink: /scholarship/
 title: "Scholarship"
-modified: 2020-01-21
-comments: false
+permalink: /scholarship/
 author_profile: true
 toc: true
 ---
