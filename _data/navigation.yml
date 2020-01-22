@@ -2,8 +2,8 @@
 main:
   - title: "Clinical"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Research"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Scholarship"
+    url: /scholarship/
   - title: "Entrepreneurship"
   #   url: /year-archive/
   - title: "Projects"
