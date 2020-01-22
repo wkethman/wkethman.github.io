@@ -4,9 +4,7 @@ title: "Research and scholarship"
 classes: wide
 ---
 See my [Google Scholar](https://scholar.google.com/citations?user=Q43MriQAAAAJ&hl=en) and [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=william+kethman) profiles.
-
 ## Manuscripts
-
 Noureldine SI, Khan A, Massasati SA, **Kethman WC**, Kandil E. Thyroid hormone replacement therapy, surveillance ultrasonography, and fine-needle aspiration after hemithyroidectomy. Ann Otol Rhinol Laryngol. 2013;122(7):450-456. 
 
 Winters, A, **Kethman, WC**, Kruse-Jarres, R, Kanter, J. Vitamin D Insufficiency is a Frequent Finding in Pediatric and Adult Patients with Sickle Cell Disease and Correlates with Markers of Cell Turnover. Journal of Nutritional Disorders & Therapy. Doi.org 2014;4:1–5. doi:10.4172/2161-0509.1000140.
@@ -32,9 +30,7 @@ Huffaker, MF, Carchia, M, Harris, BU, **Kethman, WC**, et al. Passive Nocturnal 
 **Kethman, WC**, Shelton, EA, Kin, C, Morris, AM, & Shelton AA. (2019). Effects of Colorectal Surgery Classification on Reported Postoperative Surgical Site Infections. Journal of Surgical Research, 236, 340–344. https://doi.org/10.1016/J.JSS.2018.12.005
 
 **Kethman, WC**, Harris, AHS, Morris, AM, Shelton, A, Kirilcuk, N. & Kin, C. (2019). Oncologic and Perioperative Outcomes of Laparoscopic, Open, and Robotic Approaches for Rectal Cancer Resection. Diseases of the Colon & Rectum, 1. https://doi.org/10.1097/DCR.0000000000001534
-
 ## Mentorship
-
 **Lee White, M.D., Ph.D.** - Stanford Medical Student	
 Resulted in decision to attend Stanford University School of Medicine with ultimate interest in a career in Surgery, currently a Urology Resident at Stanford University.
 
