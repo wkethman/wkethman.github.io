@@ -3,7 +3,7 @@ permalink: /scholarship/
 title: "Research and mentorship"
 classes: wide
 ---
-I feel that research is a vector for expression of ideas that allows one to leverage data to guide care and influence the way clinicians practice - this carries an immense responsibility. As a surgeon and developer I live at an interesting intersection - analyzing large datasets, applying the latest methodologies in data science, and making sense out of chaos is an area that intrigues me. 
+Research is a vector for expression of ideas that allows one to leverage data to guide care and influence the way clinicians practice - this carries an immense responsibility. As a surgeon and developer I live at an interesting intersection - analyzing large datasets, applying the latest methodologies in data science, and making sense out of chaos is an area that intrigues me. 
 
 Here are a few areas that I am exploring beyond the publications listed below:
 - Application of machine learning techniques to structured data in healthcare 
@@ -55,4 +55,3 @@ Resulted in development of a novel therapy for treatment of post-thrombotic synd
 **Leo Cheng, Alfonso Lapergola, Kelley Hoggan, Joric Oude Vrielink, Pierre Kadula, Lena Ternes**
 Business Engineering and Surgical Technologies Innovation Course in Strasbourg, France	2016
 Resulted in award for BEST Business for development of a diagnostic test to predict the quality of colonic preparation to reduce non-diagnostic endoscopic evaluations. This concept was selected by IRCAD for further development and the potential for up to 50,000€ in IHU grant funding.
-
