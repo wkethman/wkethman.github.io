@@ -10,6 +10,7 @@ Here are a few areas that I am exploring beyond the publications listed below:
 	- Predicting locally advanced disease in clinically early stage rectal cancer - are we missing those who might benefit from neoadjuvant therapy?
 	- Can we develop tools to aid in the identification and biopsy of neoplasms during endoscopy? 
 - Understanding patterns of cancer care in academic and community settings and how they might influence care - how do we optimize care irrespective of setting
+- Use of software to improve peri-operative care and outcomes after ostomy creation
 
 Please see my [Google Scholar](https://scholar.google.com/citations?user=Q43MriQAAAAJ&hl=en) and [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=william+kethman) profiles for a complete listing of publications.
 
