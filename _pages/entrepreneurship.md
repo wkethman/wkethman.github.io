@@ -1,19 +1,9 @@
 ---
-permalink: /scholarship/
-title: "Research and mentorship"
+permalink: /innovation/
+title: "Innovation"
 classes: wide
 ---
-I feel that research and publication is a vector of expression that allows one to leverage data to guide care and influence the way we clinicians practice - this carries an immense responsibility. As a surgeon and developer I live at an interesting intersection - analyzing large datasets, applying the latest methodologies in data science, and making sense out of chaos is an area that intrigues me. 
-
-Here are a few areas that I am exploring beyond the publications listed below:
-- Application of machine learning techniques to structured data in healthcare 
-	- Predicting locally advanced disease in clinically early stage rectal cancer - are we missing those who might benefit from neoadjuvant therapy?
-	- Can we develop tools to aid in the identification and biopsy of neoplasms during endoscopy? 
-- Understanding patterns of cancer care in academic and community settings and how they might influence care - how do we optimize care irrespective of setting
-
-Please see my [Google Scholar](https://scholar.google.com/citations?user=Q43MriQAAAAJ&hl=en) and [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=william+kethman) profiles for a complete listing of publications.
-
-In addition to my research interests, I am committed to mentorship - until now, I have applied my experiences in building health technologies and clinical practice to mentor groups of students in solving unmet needs in healthcare.
+See my [Google Scholar](https://scholar.google.com/citations?user=Q43MriQAAAAJ&hl=en) and [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=william+kethman) profiles.
 ## Manuscripts
 Noureldine SI, Khan A, Massasati SA, **Kethman WC**, Kandil E. Thyroid hormone replacement therapy, surveillance ultrasonography, and fine-needle aspiration after hemithyroidectomy. Ann Otol Rhinol Laryngol. 2013;122(7):450-456. 
 
