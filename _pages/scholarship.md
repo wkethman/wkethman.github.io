@@ -3,7 +3,7 @@ permalink: /scholarship/
 title: "Research and mentorship"
 classes: wide
 ---
-I feel that research and publication is a vector of expression that allows one to leverage data to guide care and influence the way we clinicians practice - this carries an immense responsibility. As a surgeon and developer I live at an interesting intersection - analyzing large datasets, applying the latest methodologies in data science, and making sense out of chaos is an area that intrigues me. 
+I feel that research is a vector for expression of ideas that allows one to leverage data to guide care and influence the way clinicians practice - this carries an immense responsibility. As a surgeon and developer I live at an interesting intersection - analyzing large datasets, applying the latest methodologies in data science, and making sense out of chaos is an area that intrigues me. 
 
 Here are a few areas that I am exploring beyond the publications listed below:
 - Application of machine learning techniques to structured data in healthcare 
