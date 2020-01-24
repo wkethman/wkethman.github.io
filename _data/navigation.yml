@@ -5,7 +5,7 @@ main:
   - title: "Research"
     url: /research/
   - title: "Development"
-  #   url: /development/
+    url: /development/
   - title: "Entrepreneurship"
   #   url: /entrepreurship/
   # - title: "Sitemap"
