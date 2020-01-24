@@ -4,13 +4,11 @@ title: "Scholarship and mentorship"
 classes: wide
 ---
 ## Educational background
-
 Tulane University - Bachelor of Science with Honors in Biomedical Engineering - 2008
 - Honors Dissertation: “Design and Application of a 3-Axis Control Device”
 - Advisor: Cedric Walker, Ph.D.
 
 Tulane University School of Medicine - Medical Doctorate - 2012
-
 ## Post-graduate training
 **Stanford University Healthcare**
 - Intern, General Surgery	2012 – 2013
@@ -19,11 +17,13 @@ Tulane University School of Medicine - Medical Doctorate - 2012
 	- 90th Percentile Award for outstanding achievement on the American Board of Surgery In-Training Examination
 
 **Stanford Byers Center for Biodesign**
+
 Cottrell Specialty Biodesign Innovation Fellow - 2014–2016
 - Robert Howard Next Step Award
 - Worked with [Wende Hutton](https://www.canaan.com/team/wende-hutton) and [Julie Grant](https://www.canaan.com/team/julie-grant) at [Canaan Partners](https://www.canaan.com/) – participated in investment pitches and evaluated new venture investments
 
 **Case Western Reserve University – University Hospitals**
+
 Colorectal Surgery Residency - 2019–Present
 
 ## Mentorship
