@@ -1,29 +1,16 @@
 ---
-title: "Scholarship"
-permalink: /scholarship/
-author_profile: true
-toc: true
-header:
-  image: /images/header.png
+title: "Research"
+permalink: /research/
+classes: wide
 ---
+Research is a vector for expression of ideas that allows one to leverage data to guide care and influence the way clinicians practice - this carries an immense responsibility. As a surgeon and developer I live at an interesting intersection - analyzing large datasets, applying the latest methodologies in data science, and making sense out of chaos is an area that intrigues me. 
 
-## Mentorship
-
-**Lee White, M.D., Ph.D.** - Stanford Medical Student	
-Resulted in decision to attend Stanford University School of Medicine with ultimate interest in a career in Surgery, currently a Urology Resident at Stanford University.
-
-**Riccardo Campi, Xavier Hildenbrand, Seline Goudeketting, Valeriv Vozniuk, Ludovic Bailly**
-Business Engineering and Surgical Technologies Innovation Course in Strasbourg, France	2015
-Resulted in award for BEST of the BEST concept for development of a novel intragastric balloon extraction technology.
-
-**Ethan Li, Alaina Shumate, Preston Lim**
-Stanford University BIOE 141B Biodesign Project	2016
-Resulted in development of a novel therapy for treatment of post-thrombotic syndrome.
-
-**Leo Cheng, Alfonso Lapergola, Kelley Hoggan, Joric Oude Vrielink, Pierre Kadula, Lena Ternes**
-Business Engineering and Surgical Technologies Innovation Course in Strasbourg, France	2016
-Resulted in award for BEST Business for development of a diagnostic test to predict the quality of colonic preparation to reduce non-diagnostic endoscopic evaluations. This concept was selected by IRCAD for further development and the potential for up to 50,000€ in IHU grant funding.
-
+Here are a few areas that I am exploring beyond the publications listed below:
+- Application of machine learning techniques to structured data in healthcare 
+	- Predicting locally advanced disease in clinically early stage rectal cancer - are we missing those who might benefit from neoadjuvant therapy?
+	- Can we develop tools to aid in the identification and biopsy of neoplasms during endoscopy? 
+- Understanding patterns of cancer care in academic and community settings and how they might influence care - how do we optimize care irrespective of setting
+- Use of software to improve peri-operative care and outcomes after ostomy creation
 
 ## Publications
 

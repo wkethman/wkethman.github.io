@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Clinical"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Scholarship"
     url: /scholarship/
+  - title: "Research"
+    url: /research/
+  - title: "Development"
+  #   url: /development/
   - title: "Entrepreneurship"
-  #   url: /year-archive/
-  - title: "Projects"
-  #   url: /collection-archive/
+  #   url: /entrepreurship/
   # - title: "Sitemap"
   #   url: /sitemap/
