@@ -1,8 +1,7 @@
 ---
 permalink: /development/
 title: "Development"
-classes: wide
-author_profile: false
+layout: splash
 feature_row:
   - image_path: /images/development/trauma_guide.png
   - image_path: /images/development/res_connect.png
