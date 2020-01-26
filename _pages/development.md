@@ -15,3 +15,9 @@ gallery:
 ---
 
 {% include gallery %}
+
+Testing: ![alt text][trauma_guide]
+
+[trauma_guide]: /images/development/trauma_guide.png "Trauma Guide"
+[res_connect]: /images/development/trauma_guide.png "Resident Connect"
+[trauma_guide]: images/development/expert_or.png "Expert OR"
