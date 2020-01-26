@@ -3,31 +3,15 @@ permalink: /development/
 title: "Development"
 layout: splash
 ---
-![trauma_guide] | Platform for providing up-to-date evidence-based protocols and educational materials to guide the care and scholarly pursuit of improved care for the traumatically injured, available on [iOS](https://itunes.apple.com/us/app/trauma-guide/id1462123331?mt=8&ign-mpt=uo%3D2) and [Android](https://play.google.com/store/apps/details?id=com.stanfordtrauma.guide)
-![res_connect] | Collaborative hospital directory for healthcare professionals in use at [Stanford Healthcare](https://stanfordhealthcare.org/) and [University Hospitals](https://www.uhhospitals.org/), available on [iOS](https://itunes.apple.com/us/app/resident-connect/id1367311896?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.wckethman.rescon&hl=en_US) (Demo University – Passcode: demo)
-![expert_or] | Platform for sharing high-quality curated surgical and medical education videos, available on [Android](https://play.google.com/store/apps/details?id=com.wckethman.expertor&hl=en_US)
-
-[trauma_guide]: /images/development/trauma_guide.png
-[res_connect]: /images/development/res_connect.png
-[expert_or]: /images/development/expert_or.png
-
 ## Trauma Guide
-<figure class="third">
-    <img src="/images/development/trauma_guide.png" alt="Trauma Guide" width="100" height="100">
-</figure> 
-- Platform for providing up-to-date evidence-based protocols and educational materials to guide the care and scholarly pursuit of improved care for the traumatically injured 
-- Available on [iOS](https://itunes.apple.com/us/app/trauma-guide/id1462123331?mt=8&ign-mpt=uo%3D2) and [Android](https://play.google.com/store/apps/details?id=com.stanfordtrauma.guide)
+![trauma_guide] | Platform for providing up-to-date evidence-based protocols and educational materials to guide the care and scholarly pursuit of improved care for the traumatically injured, available on [iOS](https://itunes.apple.com/us/app/trauma-guide/id1462123331?mt=8&ign-mpt=uo%3D2) and [Android](https://play.google.com/store/apps/details?id=com.stanfordtrauma.guide)
 
 ## Resident Connect
-<figure class="third">
-    <img src="/images/development/res_connect.png" alt="Resident Connect" width="100" height="100">
-</figure>
-- Collaborative hospital directory for healthcare professionals in use at [Stanford Healthcare](https://stanfordhealthcare.org/) and [University Hospitals](https://www.uhhospitals.org/)
-- Available on [iOS](https://itunes.apple.com/us/app/resident-connect/id1367311896?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.wckethman.rescon&hl=en_US) (Demo University – Passcode: demo)
+![res_connect] | Collaborative hospital directory for healthcare professionals in use at [Stanford Healthcare](https://stanfordhealthcare.org/) and [University Hospitals](https://www.uhhospitals.org/), available on [iOS](https://itunes.apple.com/us/app/resident-connect/id1367311896?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.wckethman.rescon&hl=en_US) (Demo University – Passcode: demo)
 
 ## Expert OR
-<figure class="third">
-    <img src="/images/development/expert_or.png" alt="Expert OR" width="100" height="100">
-</figure>
-- Platform for sharing high-quality curated surgical and medical education videos
-- Available on [Android](https://play.google.com/store/apps/details?id=com.wckethman.expertor&hl=en_US)
+![expert_or] | Platform for sharing high-quality curated surgical and medical education videos, available on [Android](https://play.google.com/store/apps/details?id=com.wckethman.expertor&hl=en_US)
+
+[trauma_guide]: /images/development/trauma_guide_200.png
+[res_connect]: /images/development/res_connect_200.png
+[expert_or]: /images/development/expert_or_200.png
