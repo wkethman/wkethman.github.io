@@ -21,3 +21,5 @@ classes: wide
 <figure>
     <img src="/images/development/expert_or.png" height="100">
 </figure>
+- Platform for sharing high-quality curated surgical and medical education videos
+- Available on [Android](https://play.google.com/store/apps/details?id=com.wckethman.expertor&hl=en_US)
