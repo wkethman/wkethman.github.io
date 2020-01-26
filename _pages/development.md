@@ -4,8 +4,6 @@ title: "Development"
 layout: splash
 feature_row:
   - image_path: /images/development/trauma_guide.png
-  	title: "Resident Connect"
-  	excerpt: "Platform"
   - image_path: /images/development/res_connect.png
   - image_path: /images/development/expert_or.png
 ---
