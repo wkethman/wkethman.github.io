@@ -4,13 +4,13 @@ title: "Development"
 classes: wide
 feature_row: 
 	- image_path: /images/development/trauma_guide.png
-	  alt: "Trauma Guide"
-	  title: "Trauma Guide"
-	  excerpt: "Platform for providing up-to-date evidence-based protocols and educational materials to guide the care and scholarly pursuit of improved care for the traumatically injured, Available on [iOS](https://itunes.apple.com/us/app/trauma-guide/id1462123331?mt=8&ign-mpt=uo%3D2) and [Android](https://play.google.com/store/apps/details?id=com.stanfordtrauma.guide)"
+	alt: "Trauma Guide"
+	title: "Trauma Guide"
+	excerpt: "Platform for providing up-to-date evidence-based protocols and educational materials to guide the care and scholarly pursuit of improved care for the traumatically injured, Available on [iOS](https://itunes.apple.com/us/app/trauma-guide/id1462123331?mt=8&ign-mpt=uo%3D2) and [Android](https://play.google.com/store/apps/details?id=com.stanfordtrauma.guide)"
 	- image_path: /images/development/res_connect.png
-	  alt: "Resident Connect"
-	  title: "Resident Connect"
-	  excerpt: "Collaborative hospital directory for healthcare professionals in use at [Stanford Healthcare](https://stanfordhealthcare.org/) and [University Hospitals](https://www.uhhospitals.org/), Available on [iOS](https://itunes.apple.com/us/app/resident-connect/id1367311896?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.wckethman.rescon&hl=en_US) (Demo University – Passcode: demo)"
+	alt: "Resident Connect"
+	title: "Resident Connect"
+	excerpt: "Collaborative hospital directory for healthcare professionals in use at [Stanford Healthcare](https://stanfordhealthcare.org/) and [University Hospitals](https://www.uhhospitals.org/), Available on [iOS](https://itunes.apple.com/us/app/resident-connect/id1367311896?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.wckethman.rescon&hl=en_US) (Demo University – Passcode: demo)"
 ---
 
 {% include feature_row %}
