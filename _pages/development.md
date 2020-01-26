@@ -2,14 +2,7 @@
 permalink: /development/
 title: "Development"
 layout: splash
-feature_row:
-  - image_path: /images/development/trauma_guide.png
-  - image_path: /images/development/res_connect.png
-  - image_path: /images/development/expert_or.png
 ---
-
-{% include feature_row %}
-
 ## Trauma Guide
 <figure class="third">
     <img src="/images/development/trauma_guide.png" alt="Trauma Guide" width="100" height="100">
