@@ -4,7 +4,7 @@ title: "Development"
 classes: wide
 ---
 ## Trauma Guide
-<figure>
+<figure class="third">
     <img src="/images/development/trauma_guide.png" alt="Trauma Guide" width="100" height="100">
 </figure> 
 - Platform for providing up-to-date evidence-based protocols and educational materials to guide the care and scholarly pursuit of improved care for the traumatically injured 
