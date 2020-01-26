@@ -3,9 +3,7 @@ permalink: /development/
 title: "Development"
 layout: splash
 ---
-![trauma_guide] | 
-- Platform for providing up-to-date evidence-based protocols and educational materials to guide the care and scholarly pursuit of improved care for the traumatically injured
-- Testing
+![trauma_guide] | Platform for providing up-to-date evidence-based protocols and educational materials to guide the care and scholarly pursuit of improved care for the traumatically injured
 
 [trauma_guide]: /images/development/trauma_guide.png
 
