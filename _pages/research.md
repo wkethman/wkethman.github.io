@@ -12,6 +12,16 @@ Here are a few areas that I am exploring beyond the publications listed below:
 - Understanding patterns of cancer care in academic and community settings and how they might influence care - how do we optimize care irrespective of setting
 - Use of software to improve peri-operative care and outcomes after ostomy creation
 
+## Upcoming presentations
+
+ASCRS' Annual Scientific Meeting in Boston, MA - June 6-10, 2020 at the John B. Hynes Veterans Memorial Convention Center
+- Evaluating Disparities and Long-Term Survival in Ideal Guideline-Based Neoadjuvant Care for Rectal Cancer
+	- Sunday - June 7, 2020
+	- Presentation Time: 8:35 AM - 8:37 AM, Group Q&A: 8:50 AM - 8:59 AM
+- Effects of Surgical Approach in Short and Long-Term Outcomes in Early Stage Rectal Cancer
+	- Monday, June 8, 2020
+	- Presentation Time: 8:08 AM - 8:10 AM, Group Q&A: 8:20 AM - 8:27 AM
+
 ## Publications
 
 See my [Google Scholar](https://scholar.google.com/citations?user=Q43MriQAAAAJ&hl=en) and [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=william+kethman) profiles.
