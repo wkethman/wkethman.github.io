@@ -4,6 +4,8 @@ title: "Development"
 layout: splash
 feature_row:
   - image_path: /images/development/trauma_guide.png
+  	title: "Resident Connect"
+  	excerpt: "Platform for providing up-to-date evidence-based protocols and educational materials to guide the care and scholarly pursuit of improved care for the traumatically injured"
   - image_path: /images/development/res_connect.png
   - image_path: /images/development/expert_or.png
 ---
