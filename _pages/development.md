@@ -2,8 +2,14 @@
 permalink: /development/
 title: "Development"
 classes: wide
-toc: true
+author_profile: false
+feature_row:
+  - image_path: /images/development/trauma_guide.png
+  - image_path: /images/development/res_connect.png
+  - image_path: /images/development/expert_or.png
 ---
+
+{% include feature_row %}
 
 ## Trauma Guide
 <figure class="third">
