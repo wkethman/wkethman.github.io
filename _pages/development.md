@@ -3,8 +3,8 @@ permalink: /development/
 title: "Development"
 classes: wide
 ---
-![trauma_guide] | **Trauma Guide**
-
+**Trauma Guide**
+![trauma_guide]
 - Platform for providing up-to-date evidence-based protocols and educational materials to guide the care and scholarly pursuit of improved care for the traumatically injured
 - Available on [iOS](https://itunes.apple.com/us/app/trauma-guide/id1462123331?mt=8&ign-mpt=uo%3D2) and [Android](https://play.google.com/store/apps/details?id=com.stanfordtrauma.guide)
 
