@@ -7,7 +7,7 @@ I remember the first language I learned - my father bought me a book on Visual B
 
 <table>
 	<tr>
-		<td><img src="/images/development/trauma_guide_200.png" alt="Trauma Guide" width="50" height="50"></td>
+		<td><img src="/images/development/trauma_guide_200.png" alt="Trauma Guide" width="45" height="45"></td>
 		<td><h1>Trauma Guide</h1></td>
 	</tr>
 </table>
