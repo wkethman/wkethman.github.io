@@ -7,7 +7,7 @@ I remember the first language I learned - my father bought me a book on Visual B
 
 <table>
 	<tr>
-		<td><img src="/images/development/trauma_guide_200.png" alt="Trauma Guide" width="45" height="45"></td>
+		<td><img src="/images/development/trauma_guide_200.png" alt="Trauma Guide" width="70" height="70"></td>
 		<td><h1>Trauma Guide</h1></td>
 	</tr>
 </table>
@@ -16,8 +16,8 @@ I remember the first language I learned - my father bought me a book on Visual B
 
 <table>
 	<tr>
-		<td><img src="/images/development/expert_or_200.png" alt="Expert OR" width="50" height="50"></td>
-		<td><h2>Expert OR</h2></td>
+		<td><img src="/images/development/expert_or_200.png" alt="Expert OR" width="70" height="70"></td>
+		<td><h1>Expert OR</h1></td>
 	</tr>
 </table>
 - Platform for sharing high-quality curated surgical and medical education videos
@@ -25,8 +25,8 @@ I remember the first language I learned - my father bought me a book on Visual B
 
 <table>
 	<tr>
-		<td><img src="/images/development/res_connect_200.png" alt="Resident Connect" width="50" height="50"></td>
-		<td><h3>Resident Connect</h3></td>
+		<td><img src="/images/development/res_connect_200.png" alt="Resident Connect" width="70" height="70"></td>
+		<td><h1>Resident Connect</h1></td>
 	</tr>
 </table>
 - Collaborative hospital directory for healthcare professionals in use at [Stanford Healthcare](https://stanfordhealthcare.org/) and [University Hospitals](https://www.uhhospitals.org/)
