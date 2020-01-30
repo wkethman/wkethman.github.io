@@ -32,7 +32,7 @@ classes: wide
 
 <table>
 	<tr>
-		<td><img src="/images/development/tu.png" alt="TMedWeb" width="50"></td>
+		<td><img src="/images/development/tu.png" alt="TMedWeb" width="60"></td>
 		<td><h1>TMedWeb</h1></td>
 	</tr>
 </table>
