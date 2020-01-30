@@ -3,8 +3,6 @@ permalink: /development/
 title: "Development"
 classes: wide
 ---
-I remember the first language I learned - my father bought me a book on Visual Basic when I was in the 5th grade - I remember writing my first program, I am pretty sure it never compiled. 
-
 <table>
 	<tr>
 		<td><img src="/images/development/trauma_guide_200.png" alt="Trauma Guide" width="70" height="70"></td>
