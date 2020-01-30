@@ -2,8 +2,9 @@
 permalink: /scholarship/
 title: "Scholarship and mentorship"
 classes: wide
-toc: true
 ---
+{% include toc %}
+
 ## Educational background
 Tulane University - Bachelor of Science with Honors in Biomedical Engineering - 2008
 - Dissertation: “Design and Application of a 3-Axis Control Device”, advisor Cedric Walker, Ph.D.
