@@ -6,7 +6,7 @@ main:
     url: /research/
   - title: "Development"
     url: /development/
-  #- title: "Entrepreneurship"
-  #   url: /entrepreurship/
+  - title: "Entrepreneurship"
+    url: /entrepreurship/
   # - title: "Sitemap"
   #   url: /sitemap/
