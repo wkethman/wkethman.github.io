@@ -2,18 +2,31 @@
 permalink: /scholarship/
 title: "Scholarship and mentorship"
 classes: wide
+toc: true
 ---
 ## Educational background
 Tulane University - Bachelor of Science with Honors in Biomedical Engineering - 2008
-- Honors Dissertation: “Design and Application of a 3-Axis Control Device”
-- Advisor: Cedric Walker, Ph.D.
+- Dissertation: “Design and Application of a 3-Axis Control Device”, advisor Cedric Walker, Ph.D.
+- Distinguished Honors Scholar
+- Nissim Nathan Cohen Award 
+- Lara Massart Award
+- Science and Engineering Honor Society
+- Kappa Delta Phi Honor Fraternity
+- Alpha Eta Mu Beta Biomedical Engineering Honor Society
 
 Tulane University School of Medicine - Medical Doctorate | 2012
+- Alpha Omega Alpha (AOA)
+- Eben J. Carey, MD Award
+- Michael J. Carey, MD Award
+- Schwartz-Stuckey Award 
+- Patrick H. Hanley and Jack Aron Medical Scholarships
+
 ## Post-graduate training
 **Stanford University Healthcare**
 - Intern, General Surgery, 2012 – 2013
 - Resident, General Surgery, 2013 – 2019
-	- Alpha Omega Alpha (AOA) Surgery Representative
+	- AOA Surgery Representative
+	- Stanford Society of Physician Scholars
 	- 90th Percentile Award for outstanding achievement on the American Board of Surgery In-Training Examination
 
 **Stanford Byers Center for Biodesign**

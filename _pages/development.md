@@ -29,3 +29,12 @@ classes: wide
 </table>
 - Collaborative hospital directory for healthcare professionals in use at [Stanford Healthcare](https://stanfordhealthcare.org/) and [University Hospitals](https://www.uhhospitals.org/)
 - Available on [iOS](https://itunes.apple.com/us/app/resident-connect/id1367311896?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.wckethman.rescon&hl=en_US) (Demo University – Passcode: demo)
+
+<table>
+	<tr>
+		<td><img src="/images/development/tu.png" alt="TMedWeb" width="70" height="70"></td>
+		<td><h1>TMedWeb</h1></td>
+	</tr>
+</table>
+- Principal software developer of MedSource, a curriculum management system used at the Tulane University School of Medicine. MedSource is a subsidy of TMedWeb, an online learning community developed by a group of medical students committed to changing the paradigm of medical education and encouraging active collaboration between administrators, professors, and students.
+- Available at [TMedWeb](http://tmedweb.tulane.edu/clubs/home/)
