@@ -60,10 +60,10 @@ staticman:
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
   endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
-reCaptcha:
-  enabled: true
-  siteKey: 6LflbtUUAAAAAFrA975BXQljbFxdv5eytnwykxK9
-  secret: 6LflbtUUAAAAACndPER-8hBuXeUMfbzhJfOEzxpy
+"reCaptcha:
+  enabled                : true
+  siteKey                : "6LfOedUUAAAAAIIK6N6c5GcKEwHsB9N4d96MIB1K"
+  secret                 : "elIS78b6/KEM+2+7Fb8lvKpy8Hdir21xpAKV7jkV3x3R5OAWLzWIRHS+UeCQAXH2IF5OHovQrQ8hpc8rSUHUlnUiwo0AqZ5YqRDxcbx6ZAp69hjypk20xf+afE28H4erCz+n9wHHf52VQar/urZMfSDbrkP2vEpktjzlbSGbzFs="
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
@@ -75,7 +75,7 @@ algolia:
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
-  search_engine_id       : 010235011074605242335:928obewrffe
+  search_engine_id       : "010235011074605242335:928obewrffe"
   instant_search         : true # false (default), true
 # SEO Related
 google_site_verification :
