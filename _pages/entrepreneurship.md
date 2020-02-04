@@ -3,7 +3,7 @@ title: "Entrepreneurship"
 permalink: /entrepreneurship/
 classes: wide
 ---
-## TueoHealth
+## Tueo Health
 Tueo was founded to improve the lives of children with asthma utilizing data-driven measures of disease control combined with actionable clinical insights. Tueo was founded out of the Stanford Byers Center for Biodesign by myself, [Bronwyn Harris](https://www.linkedin.com/in/bronwyn-harris-0a6ba4a2), [Todd Murphy](https://www.linkedin.com/in/todd-murphy-b324aa5), and [Frank Wang](https://www.linkedin.com/in/franktwang/).
 {% include video id="9VvcfDFPamQ" provider="youtube" %}
 ### In the news
