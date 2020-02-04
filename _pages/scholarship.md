@@ -7,17 +7,14 @@ classes: wide
 ### Tulane University - Bachelor of Science with Honors in Biomedical Engineering - 2008
 - Dissertation: “Design and Application of a 3-Axis Control Device”, advisor Cedric Walker, Ph.D.
 - Distinguished Honors Scholar
-- Nissim Nathan Cohen Award 
-- Lara Massart Award
+- Nissim Nathan Cohen and Lara Massart Awards
 - Science and Engineering Honor Society
 - Kappa Delta Phi Honor Fraternity
 - Alpha Eta Mu Beta Biomedical Engineering Honor Society
 
 ### Tulane University School of Medicine - Medical Doctorate | 2012
 - Alpha Omega Alpha (AOA)
-- Eben J. Carey, MD Award
-- Michael J. Carey, MD Award
-- Schwartz-Stuckey Award 
+- Eben J. Carey, MD, Michael J. Carey, MD, and Schwartz-Stuckey Awards
 - Patrick H. Hanley and Jack Aron Medical Scholarships
 
 ## Post-graduate training

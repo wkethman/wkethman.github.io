@@ -3,6 +3,14 @@ title: "Entrepreneurship"
 permalink: /entrepreneurship/
 classes: wide
 ---
+## TueoHealth
+Tueo was founded to improve the lives of children with asthma utilizing data-driven measures of disease control combined with actionable clinical insights. Tueo was founded out of the Stanford Byers Center for Biodesign by myself, [Bronwyn Harris](https://www.linkedin.com/in/bronwyn-harris-0a6ba4a2), [Todd Murphy](https://www.linkedin.com/in/todd-murphy-b324aa5), and [Frank Wang](https://www.linkedin.com/in/franktwang/).
+{% include video id="9VvcfDFPamQ" provider="youtube" %}
+### In the news
+- [Google News](https://www.google.com/search?q=tueo+health&hl=en&sxsrf=ACYBGNQvXcxio8JcXsDVhFYwDO0jKF9LEA:1580779072659&source=lnms&tbm=nws&sa=X&ved=2ahUKEwjWkuD43LbnAhVLAqwKHee5CPkQ_AUoAXoECAwQAw&biw=1342&bih=1129&dpr=2)
+- [Stanford Byers Center for Biodesign](https://biodesign.stanford.edu/our-impact/technologies/tueo.html)
+- [MedTech Innovator](https://medtechinnovator.org/company/tueo-health-3/)
+
 ## [Medgadget Author](https://www.medgadget.com/author/wckethman)
 - [Third Pole's On-Demand Portable iNO: Interview with Dr. Warren Zapol](https://www.medgadget.com/2017/06/third-pole-demand-portable-ino.html)
 - [Introducing Loop Vital Signs Wearable Monitor from SpryHealth](https://www.medgadget.com/2017/05/introducing-loop-vital-signs-wearable-monitor-from-spryhealth.html)
