@@ -21,7 +21,7 @@ title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "William Kethman"
 description              : "One step at a time"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://william.kethman.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # /scholarship
 repository               : "wkethman/wkethman.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -62,8 +62,8 @@ staticman:
   endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
 reCaptcha:
   enabled                : true
-  siteKey                : "6LfOedUUAAAAAIIK6N6c5GcKEwHsB9N4d96MIB1K"
-  secret                 : "elIS78b6/KEM+2+7Fb8lvKpy8Hdir21xpAKV7jkV3x3R5OAWLzWIRHS+UeCQAXH2IF5OHovQrQ8hpc8rSUHUlnUiwo0AqZ5YqRDxcbx6ZAp69hjypk20xf+afE28H4erCz+n9wHHf52VQar/urZMfSDbrkP2vEpktjzlbSGbzFs="
+  siteKey                : "6Le1IdYUAAAAAFh0Cm409pk6Zk6pHnn_z4jIgpqB"
+  secret                 : "m7OCAVv7mp+NyYvoonll+FfWJyRJ6Pf62ERVYLsIPF5p/ZMZbjnZmFKe7+DNYaaHd36FQKsSzoU2eqm39aaogiFFcEn+DNXssHmTstMshYjD8VvLkD1iNR0DaFWIUKBEdJJBtPD9bf5SYjbMxfXO9YpiV7NiTVjhB6S6fnjIFz4="
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
@@ -104,7 +104,7 @@ social:
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-157682569-1"
+    tracking_id          : "UA-157859264-1"
     anonymize_ip         : false # true, false (default)
 
 
