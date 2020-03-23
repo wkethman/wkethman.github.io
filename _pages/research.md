@@ -54,3 +54,4 @@ Huffaker, MF, Carchia, M, Harris, BU, **Kethman, WC**, et al. Passive Nocturnal 
 
 **Kethman, WC**, Harris, AHS, Morris, AM, Shelton, A, Kirilcuk, N. & Kin, C. (2019). Oncologic and Perioperative Outcomes of Laparoscopic, Open, and Robotic Approaches for Rectal Cancer Resection. Diseases of the Colon & Rectum, 1. https://doi.org/10.1097/DCR.0000000000001534
 
+Wood, LS, Chandler, JM, Portelli, KE, Taylor, JS, **Kethman, WC**, & Wall, JK. (2020). Treating children with achalasia using per-Oral endoscopic Myotomy (POEM): twenty-one cases in review. Journal of Pediatric Surgery. https://doi.org/10.1016/j.jpedsurg.2020.02.028
