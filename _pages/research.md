@@ -3,6 +3,10 @@ title: "Research"
 permalink: /research/
 classes: wide
 ---
+## COVID-19 Resources
+- [Montana Mask](https://www.makethemasks.com/) - mask designed for safe reusability, utilized filters from standard surgical masks or N95 fabric, useful in settings where standard masks are not available or rendered ineffective from prolonged reuse, see [comparative test results](https://static1.squarespace.com/static/5e79449be223500c15da852f/t/5e7e663f06b4c351220683de/1585342016322/Mask+Fit+Test+Report+Comparison+.pdf)  
+- [PRUSA Protective Face Shield-RC3](https://www.prusa3d.com/covid19/) - face shield approved by Michigan Medicine Procurement
+
 Research is a vector for expression of ideas that allows one to leverage data to guide care and influence the way clinicians practice - this carries an immense responsibility. As a surgeon and developer I live at an interesting intersection - analyzing large datasets, applying the latest methodologies in data science, and making sense out of chaos is an area that intrigues me. 
 
 Here are a few areas that I am exploring beyond the publications listed below:
@@ -14,13 +18,9 @@ Here are a few areas that I am exploring beyond the publications listed below:
 
 ## Upcoming presentations
 
-ASCRS' Annual Scientific Meeting in Boston, MA - June 6-10, 2020 at the John B. Hynes Veterans Memorial Convention Center
+**| Meeting Cancelled |** ASCRS' Annual Scientific Meeting in Boston, MA - June 6-10, 2020 at the John B. Hynes Veterans Memorial Convention Center
 - Evaluating Disparities and Long-Term Survival in Ideal Guideline-Based Neoadjuvant Care for Rectal Cancer
-	- Sunday - June 7, 2020
-	- Presentation Time: 8:35 AM - 8:37 AM, Group Q&A: 8:50 AM - 8:59 AM
 - Effects of Surgical Approach in Short and Long-Term Outcomes in Early Stage Rectal Cancer
-	- Monday, June 8, 2020
-	- Presentation Time: 8:08 AM - 8:10 AM, Group Q&A: 8:20 AM - 8:27 AM
 
 ## Publications
 
