@@ -1,8 +1,28 @@
 ---
-permalink: /development/
-title: "Development"
+permalink: /projects/
+title: "Projects"
 classes: wide
 ---
+## 3D Printing
+I am currently printing [PLA/+](https://amzn.to/2SISKKY), [PETG](https://amzn.to/3dtZ7Kq), and [ABS](https://amzn.to/2YKHkKS) with a modified [Ender 3 Pro](https://amzn.to/2SN6c0v) running [Marlin firmware](https://github.com/wkethman/Marlin) connected through [Raspberry Pi](https://amzn.to/2SHXQaj) running [OctiPrint](https://octoprint.org/download/).
+
+Purchased upgrades:
+- [SKR 1.4 turbo - TMC2209 Motor drivers](https://amzn.to/2xI1MAI)
+- [All metal extruder feeder drive](https://amzn.to/2YPZlXQ)
+- [BLTouch](https://amzn.to/2L6w57p)
+- [Filament runout sensor](https://amzn.to/2yCenpC)
+- [LM2596 buck converter](https://amzn.to/35DOTUY)
+- [5015 24V Blower fan](https://amzn.to/2SIlVy4)
+
+3D Printed upgrades:
+- [Hydra fan duct](https://www.thingiverse.com/thing:4062242)
+- [Filament runout sensor mount](https://www.thingiverse.com/thing:4014649)
+
+Miscellaneous accessories:
+- [M2/3/4 steel screws, nuts, and washers](https://amzn.to/3b7e0Ra)
+- [Raspberry Pi](https://amzn.to/2SHXQaj)
+
+## Software development
 <table>
 	<tr>
 		<td><img src="/images/development/trauma_guide_200.png" alt="Trauma Guide" width="70" height="70"></td>

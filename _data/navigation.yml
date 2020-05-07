@@ -4,8 +4,8 @@ main:
     url: /scholarship/
   - title: "Research"
     url: /research/
-  - title: "Development"
-    url: /development/
+  - title: "Projects"
+    url: /projects/
   - title: "Entrepreneurship"
     url: /entrepreneurship/
   # - title: "Sitemap"
