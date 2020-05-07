@@ -4,6 +4,10 @@ title: "Projects"
 classes: wide
 ---
 ## 3D Printing
+<figure class="half">
+	<img src="/images/3dprinter/1.jpg">
+	<img src="/images/3dprinter/2.jpg">
+</figure>
 I am currently printing [PLA/+](https://amzn.to/2SISKKY), [PETG](https://amzn.to/3dtZ7Kq), and [ABS](https://amzn.to/2YKHkKS) with a modified [Ender 3 Pro](https://amzn.to/2SN6c0v) running [Marlin firmware](https://github.com/wkethman/Marlin) connected through [Raspberry Pi](https://amzn.to/2SHXQaj) running [OctiPrint](https://octoprint.org/download/).
 
 Purchased upgrades:
