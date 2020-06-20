@@ -3,6 +3,55 @@ permalink: /projects/
 title: "Projects"
 classes: wide
 ---
+## Ryzentosh
+
+### Hardware
+- Case: [*NZXT H1*](https://www.nzxt.com/products/h1-matte-white)
+- Motherboard: [*ASUS ROG Strix B450-I mITX*](https://www.asus.com/us/Motherboards/ROG-STRIX-B450-I-GAMING/)
+- CPU: Ryzen 9 3900X Matisse 3.8GHz 12-Core AM4
+- Video card: [*AMD RX 5700XT*](https://www.powercolor.com/product?id=1565842787)
+- Ram: Ripjaws V 32GB (2 x 16GB) DDR4-3200
+- Hard drive: 1TB SSD 3D NAND M.2 2280 PCIe NVMe 3.0 x4 Solid State Drive
+- Wireless/Bluetooth: BCM94352Z/DW1560
+
+### Bios configuriaton
+BIOS v3004 
+
+*Boot*
+- Fast Boot -> Disabled
+- CSM -> Launch CSM -> Disabled
+- Secure Boot -> OS Type -> Windows UEFI
+
+*Advanced*
+- USB Configuration -> XHCI Hand-off -> Enabled
+- Core Performance Boost -> Disabled
+
+### OpenCore Configuration
+I followed the [AMD OS X Vanilla Guide](https://vanilla.amd-osx.com/) and went over to [dortania.github.io](https://dortania.github.io/OpenCore-Desktop-Guide/) to configure OpenCore.
+
+#### Required kext files
+[*Download kext files*](/assets/files/kexts-06202020.zip)
+- AirportBrcmFixup.kext
+- AMDRyzenCPUPowerManagement.kext
+- AppleALC.kext
+- AppleMCEReporterDisabler.kext
+- BrcmBluetoothInjector.kext
+- BrcmFirmwareData.kext
+- BrcmPatchRAM3.kext
+- Lilu.kext
+- SmallTreeIntel82576.kext
+- SMCAMDProcessor.kext
+- VirtualSMC.kext
+- WhateverGreen.kext
+
+### Setup
+I referenced an [Optimum Tech](https://www.youtube.com/watch?v=hVs7i-wm5W0) build video for quickly installing the B450-I and hardware in the NZXT H1 case and the [Small Form Factory](https://www.youtube.com/watch?v=HUTHN8reR38) motherboard WiFi adapter upgrade video to install the BCM94352Z adapter. 
+
+*What is working*
+- Wireless/Bluetooth
+- Graphics hardware acceleration
+- AMD Power Management
+
 ## 3D Printing
 <figure class="half">
 	<img src="/images/3dprinter/1.jpg">
@@ -10,7 +59,7 @@ classes: wide
 </figure>
 I am currently printing [PLA/+](https://amzn.to/2SISKKY), [PETG](https://amzn.to/3dtZ7Kq), and [ABS](https://amzn.to/2YKHkKS) with a modified [Ender 3 Pro](https://amzn.to/2SN6c0v) running [Marlin firmware](https://github.com/wkethman/Marlin) connected through [Raspberry Pi](https://amzn.to/2SHXQaj) running [OctiPrint](https://octoprint.org/download/).
 
-Purchased upgrades:
+### Purchased upgrades
 - [SKR 1.4 turbo - TMC2209 Motor drivers](https://amzn.to/2xI1MAI)
 - [All metal extruder feeder drive](https://amzn.to/2YPZlXQ)
 - [BLTouch](https://amzn.to/2L6w57p)
@@ -18,11 +67,11 @@ Purchased upgrades:
 - [LM2596 buck converter](https://amzn.to/35DOTUY)
 - [5015 24V Blower fan](https://amzn.to/2SIlVy4)
 
-3D Printed upgrades:
+### 3D Printed upgrades
 - [Hydra fan duct](https://www.thingiverse.com/thing:4062242)
 - [Filament runout sensor mount](https://www.thingiverse.com/thing:4014649)
 
-Miscellaneous accessories:
+### Miscellaneous accessories
 - [M2/3/4 steel screws, nuts, and washers](https://amzn.to/3b7e0Ra)
 - [Raspberry Pi](https://amzn.to/2SHXQaj)
 
