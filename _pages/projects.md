@@ -6,9 +6,6 @@ gallery:
   - image_path: /images/ryzentosh/1.jpg
   - image_path: /images/ryzentosh/2.jpg
   - image_path: /images/ryzentosh/3.jpg
-  - image_path: /images/ryzentosh/4.jpg
-  - image_path: /images/ryzentosh/5.jpg
-  - image_path: /images/ryzentosh/6.jpg
 ---
 
 ## Ryzentosh
