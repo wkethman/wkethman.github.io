@@ -55,6 +55,7 @@ I referenced an [Optimum Tech](https://www.youtube.com/watch?v=hVs7i-wm5W0) buil
 
 ### Credit
 - Maf3r0
+- willza3
 - acidanthera
 - Shaneee
 - CorpNewt
