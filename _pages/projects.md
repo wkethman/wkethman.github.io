@@ -4,7 +4,8 @@ title: "Projects"
 classes: wide
 ---
 ## Ryzentosh
-
+Geekbench 5 Single-Core: 1138, Multi-Core: 10881
+{% include figure image_path="/images/ryzentosh.png" %}
 ### Hardware
 - Case: [*NZXT H1*](https://www.nzxt.com/products/h1-matte-white)
 - Motherboard: [*ASUS ROG Strix B450-I mITX*](https://www.asus.com/us/Motherboards/ROG-STRIX-B450-I-GAMING/)
@@ -16,18 +17,16 @@ classes: wide
 
 ### Bios configuriaton
 BIOS v3004 
-
 *Boot*
 - Fast Boot -> Disabled
 - CSM -> Launch CSM -> Disabled
 - Secure Boot -> OS Type -> Windows UEFI
-
 *Advanced*
 - USB Configuration -> XHCI Hand-off -> Enabled
 - Core Performance Boost -> Disabled
 
 ### OpenCore Configuration
-I followed the [AMD OS X Vanilla Guide](https://vanilla.amd-osx.com/) and went over to [dortania.github.io](https://dortania.github.io/OpenCore-Desktop-Guide/) to configure OpenCore.
+I followed the [AMD OS X Vanilla Guide](https://vanilla.amd-osx.com/) , went over to [dortania.github.io](https://dortania.github.io/OpenCore-Desktop-Guide/) to configure OpenCore, and followed the following [dual-boot](https://www.tonymacx86.com/threads/macos-win-dual-boot-at-same-disk-with-opencore.295892/) guide.
 
 #### Required kext files
 [*Download kext files*](/assets/files/kexts-06202020.zip)
@@ -47,10 +46,14 @@ I followed the [AMD OS X Vanilla Guide](https://vanilla.amd-osx.com/) and went o
 ### Setup
 I referenced an [Optimum Tech](https://www.youtube.com/watch?v=hVs7i-wm5W0) build video for quickly installing the B450-I and hardware in the NZXT H1 case and the [Small Form Factory](https://www.youtube.com/watch?v=HUTHN8reR38) motherboard WiFi adapter upgrade video to install the BCM94352Z adapter. 
 
-*What is working*
-- Wireless/Bluetooth
-- Graphics hardware acceleration
-- AMD Power Management
+### Credit
+- Maf3r0
+- acidanthera
+- Shaneee
+- CorpNewt
+- AlGrey
+- Hackintosh Slav 
+- And many others
 
 ## 3D Printing
 <figure class="half">
