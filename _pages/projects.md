@@ -9,8 +9,8 @@ gallery:
 ---
 
 ## Ryzentosh
-Geekbench 5 Single-Core: 1138, Multi-Core: 10881
-[EFI](https://github.com/wkethman/EFI)
+- Geekbench 5 Single-Core: 1138, Multi-Core: 10881
+- [EFI](https://github.com/wkethman/EFI)
 {% include figure image_path="/images/ryzentosh/ryzentosh.png" %}
 ### Hardware
 {% include gallery %}
