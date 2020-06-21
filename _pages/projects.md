@@ -33,7 +33,7 @@ BIOS v3004
 - Core Performance Boost -> Disabled
 
 ### OpenCore Configuration
-I followed the [AMD OS X Vanilla Guide](https://vanilla.amd-osx.com/) , went over to [dortania.github.io](https://dortania.github.io/OpenCore-Desktop-Guide/) to configure OpenCore, and followed the following [dual-boot](https://www.tonymacx86.com/threads/macos-win-dual-boot-at-same-disk-with-opencore.295892/) guide.
+I followed the [AMD OS X Vanilla Guide](https://vanilla.amd-osx.com/) , went over to [dortania.github.io](https://dortania.github.io/OpenCore-Desktop-Guide/) to configure OpenCore, and followed this single-drive [dual-boot](https://www.tonymacx86.com/threads/macos-win-dual-boot-at-same-disk-with-opencore.295892/) guide.
 
 #### Required kext files
 [*Download kext files*](/assets/files/kexts-06202020.zip)
