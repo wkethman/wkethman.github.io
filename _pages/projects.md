@@ -2,11 +2,26 @@
 permalink: /projects/
 title: "Projects"
 classes: wide
+gallery:
+- url: /images/ryzentosh/1.jpg
+  image_path: /images/ryzentosh/1.jpg
+- url: /images/ryzentosh/2.jpg
+  image_path: /images/ryzentosh/2.jpg
+- url: /images/ryzentosh/3.jpg
+  image_path: /images/ryzentosh/3.jpg
+- url: /images/ryzentosh/4.jpg
+  image_path: /images/ryzentosh/4.jpg
+- url: /images/ryzentosh/5.jpg
+  image_path: /images/ryzentosh/5.jpg
+- url: /images/ryzentosh/6.jpg
+  image_path: /images/ryzentosh/6.jpg
 ---
+
 ## Ryzentosh
 Geekbench 5 Single-Core: 1138, Multi-Core: 10881
-{% include figure image_path="/images/ryzentosh.png" %}
+{% include figure image_path="/images/ryzentosh/ryzentosh.png" %}
 ### Hardware
+{% include gallery %}
 - Case: [*NZXT H1*](https://www.nzxt.com/products/h1-matte-white)
 - Motherboard: [*ASUS ROG Strix B450-I mITX*](https://www.asus.com/us/Motherboards/ROG-STRIX-B450-I-GAMING/)
 - CPU: Ryzen 9 3900X Matisse 3.8GHz 12-Core AM4
