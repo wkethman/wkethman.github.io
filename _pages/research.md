@@ -26,7 +26,15 @@ Here are a few areas that I am exploring beyond the publications listed below:
 
 See my [Google Scholar](https://scholar.google.com/citations?user=Q43MriQAAAAJ&hl=en) and [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=william+kethman) profiles.
 
+## Book Chapters
+
+**Kethman, W**, & ff Weir, R F. (2021). Human-Machine Integration and the Evolution of Neuroprostheses. In Digital Surgery (pp. 275–284). Springer International Publishing. https://doi.org/10.1007/978-3-030-49100-0_21.
+
 ## Manuscripts
+
+Bingmer, K, Ofshteyn, A, Bliggenstorfer, JT, **Kethman, W**, Ammori, J B, Charles, R, Stein, SL, & Steinhagen, E. (2020). Primary tumor location impacts survival in colorectal cancer patients after resection of liver metastases. Journal of Surgical Oncology. https://doi.org/10.1002/jso.26061.
+
+Hakes, NA, **Kethman, WC**, Spain, D, & Nassar, AK (2020). Mobile application-based guidelines to enhance patient care and provider education in trauma and acute care surgery. Trauma Surgery & Acute Care Open, 5(1), e000479. https://doi.org/10.1136/tsaco-2020-000479.
 
 Wood, LS, Chandler, JM, Portelli, KE, Taylor, JS, **Kethman, WC**, & Wall, JK. (2020). Treating children with achalasia using per-Oral endoscopic Myotomy (POEM): twenty-one cases in review. Journal of Pediatric Surgery. https://doi.org/10.1016/j.jpedsurg.2020.02.028
 
