@@ -4,7 +4,8 @@ title: "Scholarship and mentorship"
 classes: wide
 ---
 ## Professional Experience
-##Ochsner Health - Staff Colorectal Surgeon | August 2020
+### Ochsner Health - Staff Colorectal Surgeon | August 2020
+- Interested in management of complex colorectal cancers, inflammatory bowel disease, and pelvic floor disorders
 
 ## Educational background
 ### Tulane University - Bachelor of Science with Honors in Biomedical Engineering - 2008
