@@ -34,7 +34,7 @@ classes: wide
 	- Worked with [Wende Hutton](https://www.canaan.com/team/wende-hutton) and [Julie Grant](https://www.canaan.com/team/julie-grant) at [Canaan Partners](https://www.canaan.com/) – participated in investment pitches and evaluated new venture investments
 
 ### Case Western Reserve University – University Hospitals
-- Colorectal Surgery Residency, 2019 – Present
+- Colorectal Surgery Residency, 2019 – 2020
 
 ## Mentorship
 In addition to my academic interests, I am committed to mentorship - until now, I have applied my experiences in building health technologies and clinical practice to mentor groups of students in solving unmet needs in healthcare.
