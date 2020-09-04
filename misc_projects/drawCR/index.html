@@ -11,7 +11,7 @@
   <script type="text/javascript">
     function init() {
       $.ajax({
-        url: "images",
+        url: "https://wkethman.github.io/misc_projects/drawCR/images",
         success: function(data){
            $(data).find("a:contains(.png)").each(function(){
               var imageName = $(this).attr("href").replace(".png","").replace(RegExp('%20','g')," ");
