@@ -8,6 +8,11 @@ gallery:
   - image_path: /images/ryzentosh/3.jpg
 ---
 
+## [DrawCR](https://drawcr.kethman.dev/)
+- Mobile and desktop tool for illustrating surgical options for patients suffering from colorectal diseases
+- Developed in HTML 5, Javascript
+- [Github](https://github.com/wkethman/drawCR)
+
 ## Ryzentosh
 - Geekbench 5 Single-Core: 1138, Multi-Core: 10881
 - [EFI](https://github.com/wkethman/EFI)
